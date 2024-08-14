@@ -1,0 +1,12 @@
+Django
+aiogram
+requests
+beautifulsoup4
+selenium
+python-dotenv
+moviepy
+SpeechRecognition
+pydub
+pocketsphinx
+apscheduler
+transcribe-anything
